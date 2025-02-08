@@ -1,11 +1,10 @@
 # 🎮 Jump – Hyper Casual Zıplama Oyunu  
 
-**Jump**, Unity 3D ile geliştirilmiş, **hyper casual** tarzında basit ama bağımlılık yapıcı bir zıplama oyunudur. Oyuncular, karakterlerini kontrol ederek engelleri aşmalı ve en yüksek skoru elde etmeye çalışmalıdır. 🚀  
+**Jump**, Unity 3D ile geliştirilmiş, **hyper casual** tarzında basit bir zıplama oyunudur. Oyuncular, karakterlerini kontrol ederek engelleri aşmalı ve en yüksek skoru elde etmeye çalışmalıdır. 🚀  
 
 ## 🕹️ Oyun Hakkında  
 
 🔹 **Basit ve Eğlenceli Mekanikler:** Tek dokunuşla zıplama hareketi yaparak engelleri aşın.  
-🔹 **Bağımlılık Yapan Deneyim:** Hızlı tempolu oyun yapısı ve dinamik engellerle reflekslerinizi test edin.  
 🔹 **Akıcı Animasyonlar:** Akıcı karakter hareketleri ve görsel efektlerle keyifli bir oyun deneyimi.  
 🔹 **Minimalist Grafikler:** Göz yormayan, sade ama şık bir tasarım.  
 
